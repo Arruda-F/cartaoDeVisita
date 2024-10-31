@@ -19,15 +19,37 @@ section.dobraUm div.centro h1 {
 
 section.dobraUm div.centro figure {
     width: 100%;
-    max-width: 300px;
+    max-width: 210px;
     margin: 0 auto;
-    padding: 65px 0px 0px 0px;}
+    padding: 65px 0px 0px 0px;
+    }
 
 section.dobraUm div.centro figure img {
     border: 1px solid;
     border-radius: 160px;
 }
-section.dobraUm div.centro ul{}
-section.dobraUm div.centro ul li.instagram{}
-section.dobraUm div.centro ul li.linkedin{}
-section.dobraUm div.centro ul li.github{}
+section.dobraUm div.centro ul{
+    margin: 0 auto;
+    width: 100%;
+    display: block;
+    max-width: 440px;
+    text-align: center;
+}
+section.dobraUm div.centro ul li.instagram{
+    background: white;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    margin: 91px 0px 20px 0px;
+}
+section.dobraUm div.centro ul li.linkedin{
+    background: white;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    margin: 20px 0px 20px 0px;
+}
+section.dobraUm div.centro ul li.github{
+    background: white;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    margin: 20px 0px 20px 0px;
+}
