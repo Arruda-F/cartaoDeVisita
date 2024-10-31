@@ -1,0 +1,17 @@
+section.dobraUm{
+    background: black;
+    width: 100%;
+    min-height: 1080px;
+}
+section.dobraUm div.centro{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 80px 0px 0px 0px;
+}
+section.dobraUm div.centro h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+section.dobraUm div.centro{}
